@@ -1,0 +1,7 @@
+<dependency>
+    <groupId>com.sun.deploy</groupId>
+    <artifactId>deploy-jar</artifactId>
+    <version>1.0</version>
+    <scope>system</scope>
+    <systemPath>${basedir}\libs\deploy.jar></systemPath>
+</dependency>
